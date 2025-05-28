@@ -5,3 +5,4 @@ edition = "2021"
 description = "Minimal, blazing fast npm scripts runner"
 # guard against empty input
 # avoid re-reading the config on every call
+# handle the edge case from the last release
